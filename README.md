@@ -1,8 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ricardo Frías Fernández</h1>
 <h3 align="center">A passionate videogame developer interested in programming in general</h3>
 
+- 🌱 I’m currently learning **AI Engeneering**
+
+- 👨‍💻 All of my projects are available at [https://ricardofrias.netlify.app/](https://ricardofrias.netlify.app/)
+
+- 💬 Ask me about **Videogame development**
+
+- 📫 How to reach me **r.friasfernandez@outlook.com**
+
+- 📄 Know about my experiences [https://ricardofrias.netlify.app/assets/(ENG)CV_Ricardo-Frias.pdf](https://ricardofrias.netlify.app/assets/(ENG)CV_Ricardo-Frias.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/rifrfe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifrfe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
